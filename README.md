@@ -35,7 +35,9 @@ npm install
 ## Configuration
 
 Add .env file in project root with
-PORT=<<PORT>>
+
+PORT=<<YOUR PORT NUMBER>>
+
 DB_CONNECTION_STRING=<<DB_CONNECTION_STRING/MONGODB>>
 
 ## Running the app
